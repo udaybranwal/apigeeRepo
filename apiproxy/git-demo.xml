@@ -6,10 +6,12 @@
     <CreatedBy>uday806@yahoo.co.in</CreatedBy>
     <Description></Description>
     <DisplayName>git-demo</DisplayName>
-    <LastModifiedAt>1589951585533</LastModifiedAt>
+    <LastModifiedAt>1589951920038</LastModifiedAt>
     <LastModifiedBy>uday806@yahoo.co.in</LastModifiedBy>
-    <ManifestVersion>SHA-512:67ec061515047eb85383223a2b56f1485de8129e50d93a89e6200aff1330e02a2baa50721d9ba8bd3c01b36908cf92b494c1b7ce0d7957d9a0c884c6839661bf</ManifestVersion>
-    <Policies/>
+    <ManifestVersion>SHA-512:77cf6f1410b9de30d6e64004530a819387de5ee4938f7fb55ea468eb8d9b8f6aebeda2b5adcc2fff3f45b9c2223fd5d01c925742e93621333a7cec80524b6177</ManifestVersion>
+    <Policies>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
